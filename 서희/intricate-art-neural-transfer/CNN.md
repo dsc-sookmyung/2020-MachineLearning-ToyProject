@@ -61,4 +61,5 @@
 
 
 ## Reference
-https://wikidocs.net/64066
+- https://wikidocs.net/64066
+- https://stanford.edu/~shervine/l/ko/teaching/cs-230/cheatsheet-convolutional-neural-networks
